@@ -35,6 +35,13 @@ In my free time I consolidate the acquired knowledge and skills.
 </div>
 
 ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anetta4)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anetta4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+---
   
 **TAKE A LOOK AT MY PROJECTS** ⬇
   
