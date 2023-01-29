@@ -10,3 +10,7 @@ It is a fascinating field in which I want to develop. In my free time I consolid
 🔗 https://linkedin.com/in/anetapuszczewicz
 
 📧 aneta.puszczewicz@op.pl
+
+
+
+**TAKE A LOOK AT MY PROJECTS** ⬇
