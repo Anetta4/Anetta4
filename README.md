@@ -11,6 +11,6 @@ It is a fascinating field in which I want to develop. In my free time I consolid
 
 📧 aneta.puszczewicz@op.pl
 
-
+**Skills**: Python in Data Science / SQL / Data Analysis and Visualisation / ML / Regression / Classification / NLP
 
 **TAKE A LOOK AT MY PROJECTS** ⬇
